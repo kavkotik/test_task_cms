@@ -1,0 +1,47 @@
+.tab-title {
+  font-size: 14px;
+  margin: 10px;
+  text-align: right;
+}
+.component-wrap {
+  text-align: center;
+}
+.home-text {
+  font-size: 22px;
+}
+.home-mem-img {
+  width: 400px;
+}
+.list-numbers {
+  list-style: none;
+  border: 1px solid lightseagreen;
+  width: 100px;
+  padding: 20px;
+  margin: auto;
+}
+.list-item {
+  margin-bottom: 10px;
+  color: lightseagreen;
+}
+.posts {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.post-item {
+  border: 1px solid lightseagreen;
+  width: 250px;
+  padding: 20px;
+  margin: 20px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.post-img {
+  background: lightseagreen;
+  width: 200px;
+  height: 200px;
+  display: block;
+}

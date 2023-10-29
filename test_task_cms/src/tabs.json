@@ -1,0 +1,21 @@
+[
+  {
+    "id": "home",
+    "title": "Home",
+    "order": 0,
+    "path": "/"
+  },
+  {
+    "id": "posts",
+    "title": "Posts",
+    "order": 1,
+    "path": "/posts"
+  },
+
+  {
+    "id": "list",
+    "title": "List",
+    "order": 2,
+    "path": "/list"
+  }
+]
